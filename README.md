@@ -17,7 +17,7 @@
 </p>
 <p align="center">💙 LA PROGRAMACIÓN 💙
 </p>
-<p align="center">👀 Estoy interesada en la programación del lenguaje natural 🌱 Actualmente estoy estudiando tecnologías backend, en general, y un poco de machine learning, en particular 💞️ Deseando colaborar en proyectos que trabajen con el lenguaje y su procesamiento, pero también me encanta 🕹️ jugar con Java.
+<p align="center">👀 Estoy interesada en la programación del lenguaje natural 🌱 Actualmente estoy estudiando tecnologías backend, en general, y una pequeña introducción a machine learning, en particular 💞️ Deseando colaborar en proyectos que trabajen con el lenguaje y su procesamiento, pero también me encanta 🕹️ jugar con Java.
 </p>
 
 <hr>
