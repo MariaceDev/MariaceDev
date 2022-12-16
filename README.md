@@ -13,7 +13,7 @@
 </div>
 
 <h3 align="center">SOBRE MÍ</h3>
-<p align="center">Arqueóloga - Lingüista - Programadora: amante de la investigación y el trabajo de campo (sobre el terreno, la lengua o creando una aplicación), por fin he encontrado la confluencia de mi pasión por las letras y las ciencias:
+<p align="center">Lingüista + Programadora: amante de la investigación y el trabajo de campo, por fin he encontrado la confluencia de mi pasión por las letras y las ciencias:
 </p>
 <p align="center">💙 LA PROGRAMACIÓN 💙
 </p>
@@ -23,20 +23,27 @@
 <hr>
  <h3>Lenguajes con los que vivo 🏡</h3>
                  
- [![SQL](https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)]()
- [![Java](https://img.shields.io/badge/Java-EE6055?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
- [![Python](https://img.shields.io/badge/Python-FFD97D?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
+ [![SQL](https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=SQL&logoColor=white)]()
+ [![Java](https://img.shields.io/badge/Java-EE6055?style=for-the-badge&logo=java&logoColor=white)]()
+ [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
                  
  
   <h3>Lenguajes que vienen de visita 🏃‍♀️</h3>
                  
- [![PHP](https://img.shields.io/badge/PHP-007396?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
- [![JavaScript](https://img.shields.io/badge/JavaScript-FFD97D?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
- [![CSS](https://img.shields.io/badge/CSS-b5179e?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)]()
- [![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()
+ [![PHP](https://img.shields.io/badge/PHP-007396.svg?style=for-the-badge&logo=PHP&logoColor=white)]()
+ [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+ [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]()
+ [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]()
+ [![XML](https://img.shields.io/badge/XML-8D99AE?style=for-the-badge&logo=XML&logoColor=white&labelColor=101010)]()
 
-                  
-           
+
+ <h3>Mis herramientas 👩‍🔧</h3>
+
+             
+[![Eclipse](https://img.shields.io/badge/eclipse%20-03045E.svg?&style=for-the-badge&logo=eclipse&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/mysql%20-007396.svg?&style=for-the-badge&logo=mysql&logoColor=white)]()
+[![VisualStudio](https://img.shields.io/badge/visualstudio%20-b5179e.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)]()
+[![Colab](https://img.shields.io/badge/googlecolab-E9C46A.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)]()
 
                                                                                        
 <!---
