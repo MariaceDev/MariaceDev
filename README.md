@@ -8,7 +8,7 @@
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-mariacedev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariacedev/)](https://www.linkedin.com/in/mariacedev/)
-  [![ProtonMail Badge](https://img.shields.io/badge/-mcgcdev@proton.me-b5179e?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mcgcdev@proton.me)](mailto:mcgcdev@proton.me)
+  [![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-b5179e?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mcgcdev@proton.me)](mailto:mcgcdev@proton.me)
   [![Github Badge](https://img.shields.io/badge/-mariacedev-0A0908?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/mariacedev/)](https://www.github.com/mariacedev/)     
 </div>
 
