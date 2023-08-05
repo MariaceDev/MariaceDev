@@ -9,8 +9,6 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-mariacedev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariacedev/)](https://www.linkedin.com/in/mariacedev/)
   [![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-b5179e?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mcgcdev@proton.me)](mailto:mcgcdev@proton.me)
-  [![Github Badge](https://img.shields.io/badge/-mariacedev-0A0908?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/mariacedev/)](https://www.github.com/mariacedev/)     
-</div>
 
 <h2 align="center">SOBRE MÍ</h2>
 <p align="center">Lingüista + Programadora: amante de la investigación y el trabajo de campo, por fin he encontrado la confluencia de mi pasión por las letras y las ciencias:
@@ -21,15 +19,11 @@
 </p>
 
 <hr>
- <h4>Lenguajes con los que vivo 🏡</h4>
+ <h4>🏡Tecnologías con las que trabajo 🏃‍♀️</h4>
                  
  [![SQL](https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=SQL&logoColor=white)]()
  [![Java](https://img.shields.io/badge/Java-EE6055?style=for-the-badge&logo=java&logoColor=white)]()
  [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
-                 
- 
-  <h4>Lenguajes que vienen de visita 🏃‍♀️</h4>
-                 
  [![PHP](https://img.shields.io/badge/PHP-007396.svg?style=for-the-badge&logo=PHP&logoColor=white)]()
  [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
  [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]()
@@ -38,7 +32,6 @@
 
 
  <h4>Mis herramientas 👩‍🔧</h4>
-
              
 [![Eclipse](https://img.shields.io/badge/eclipse%20-03045E.svg?&style=for-the-badge&logo=eclipse&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/mysql%20-007396.svg?&style=for-the-badge&logo=mysql&logoColor=white)]()
