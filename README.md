@@ -15,7 +15,7 @@
 </p>
 <p align="center">💙 LA PROGRAMACIÓN 💙
 </p>
-<p align="center">👀 Estoy interesada en la programación del lenguaje natural 🌱 Actualmente estoy trabajando con tecnologías <em>backend</em> como Django y Spring. También, he estudiado una pequeña introducción a <em>machine learning</em> 🤖. Gracias a mi experiencia laboral como diseñadora gráfica en una imprenta 🖨️, estoy perfectametne preparada para ser una 💞️ FullStack 💞️.
+<p align="center">👀 Totalmente interesada en la programación del lenguaje natural 🌱 Actualmente estoy trabajando con tecnologías <em>backend</em> como Django y Spring. También, he estudiado una pequeña introducción a <em>machine learning</em> 🤖. Gracias a mi experiencia laboral como diseñadora gráfica en una imprenta 🖨️, estoy perfectametne preparada para ser una 💞️ FullStack 💞️.
 </p>
 
 <hr>
