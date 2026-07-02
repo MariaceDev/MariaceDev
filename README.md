@@ -68,8 +68,6 @@ Hoy desarrollo **aplicaciones web modernas de principio a fin**: interfaces cuid
 - 🖱️ **Apps de escritorio multiplataforma** con Electron y **PWAs instalables** para móvil.
 - 🗂️ **Arquitectura de monorepo** con pnpm + Turborepo: paquetes compartidos, tipado común y builds cacheados.
 - 🌍 **Integraciones con servicios externos** (pagos, mensajería, notificaciones) y flujos en tiempo real.
-- 🧠 Interés y práctica en **Python** aplicado al **procesamiento del lenguaje natural** y a la exploración de datos.
-
 ---
 
 ## 📊 GitHub
