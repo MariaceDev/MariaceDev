@@ -1,9 +1,9 @@
-[README.md](https://github.com/user-attachments/files/29587358/README.md)
+[README.md](https://github.com/user-attachments/files/29587552/README.md)
 <div align="center">
 
 # Mari Carmen García Cortés
 
-**Programadora Full-Stack** · Málaga, España
+**Lingüista + Programadora Full-Stack** · Málaga, España
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmariacedev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariacedev)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-mcgcdev%40proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:mcgcdev@proton.me)
@@ -50,14 +50,12 @@ Hoy desarrollo **aplicaciones web modernas de principio a fin**: interfaces cuid
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-**Herramientas & Testing**
+**Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -69,7 +67,6 @@ Hoy desarrollo **aplicaciones web modernas de principio a fin**: interfaces cuid
 - ⚙️ **APIs y lógica serverless** con Node, Express y Cloud Functions sobre Firebase (Firestore, Auth, reglas de seguridad).
 - 🖱️ **Apps de escritorio multiplataforma** con Electron y **PWAs instalables** para móvil.
 - 🗂️ **Arquitectura de monorepo** con pnpm + Turborepo: paquetes compartidos, tipado común y builds cacheados.
-- ✅ **Testing** end-to-end con Playwright y unitario con Vitest.
 - 🌍 **Integraciones con servicios externos** (pagos, mensajería, notificaciones) y flujos en tiempo real.
 - 🧠 Interés y práctica en **Python** aplicado al **procesamiento del lenguaje natural** y a la exploración de datos.
 
