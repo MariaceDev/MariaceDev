@@ -1,9 +1,9 @@
-[README.md](https://github.com/user-attachments/files/29587187/README.md)
+[README.md](https://github.com/user-attachments/files/29587358/README.md)
 <div align="center">
 
 # Mari Carmen García Cortés
 
-**Lingüista + Programadora Full-Stack** · Málaga, España
+**Programadora Full-Stack** · Málaga, España
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmariacedev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariacedev)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-mcgcdev%40proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:mcgcdev@proton.me)
@@ -29,8 +29,6 @@ Hoy desarrollo **aplicaciones web modernas de principio a fin**: interfaces cuid
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 
@@ -47,7 +45,6 @@ Hoy desarrollo **aplicaciones web modernas de principio a fin**: interfaces cuid
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Desktop & PWA**
 
@@ -75,7 +72,7 @@ Hoy desarrollo **aplicaciones web modernas de principio a fin**: interfaces cuid
 - 🗂️ **Arquitectura de monorepo** con pnpm + Turborepo: paquetes compartidos, tipado común y builds cacheados.
 - ✅ **Testing** end-to-end con Playwright y unitario con Vitest.
 - 🌍 **Integraciones con servicios externos** (pagos, mensajería, notificaciones) y flujos en tiempo real.
-- 🧠 Base sólida en **SQL**, **Python/Django** y **Java**, y curiosidad constante por el **procesamiento del lenguaje natural**.
+- 🧠 Interés y práctica en **Python** aplicado al **procesamiento del lenguaje natural** y a la exploración de datos.
 
 ---
 
